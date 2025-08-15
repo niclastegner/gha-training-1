@@ -1,7 +1,5 @@
 # GitHub Actions Fundamentals
 
-Niclas was here!
-
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
